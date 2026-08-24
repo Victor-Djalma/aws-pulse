@@ -161,8 +161,8 @@ Ela possui uma Lambda Function URL e é utilizada exclusivamente como endpoint d
 
 <!-- Adicione a imagem em: images/test-api.png -->
 
-![AWS Pulse Test API](images/test-api.png)
-
+<img width="906" height="238" alt="API - DOWN" src="https://github.com/user-attachments/assets/42b9c878-1e62-454f-9694-448c320f2802" />
+<img width="906" height="238" alt="API - UP" src="https://github.com/user-attachments/assets/0fdcbc26-0da7-483b-810a-d80be48020ca" />
 O comportamento é controlado pela variável de ambiente:
 
 ```text
