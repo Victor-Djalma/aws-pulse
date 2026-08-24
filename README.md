@@ -311,7 +311,7 @@ CloudWatch Alarm
 
 <!-- Adicione a imagem em: images/sns-email.png -->
 
-![SNS Notification](images/sns-email.png)
+<img width="1915" height="798" alt="Email via AWS SNS" src="https://github.com/user-attachments/assets/994aa49c-11bf-415b-b9e2-14d975f31027" />
 
 ---
 
