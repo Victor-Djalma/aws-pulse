@@ -250,7 +250,7 @@ O dashboard reúne a disponibilidade, latência e estado dos alarmes dos dois se
 Dashboard - API DOWN
 <img width="1890" height="1075" alt="Dashaborad-DOWN" src="https://github.com/user-attachments/assets/bb3bbf27-f576-441f-8e4d-ce35eb7fcb80" />
 Dashboard - API UP
-![AWS Pulse Dashboard](images/dashboard.png)
+<img width="1905" height="1073" alt="Dashaborad-UP" src="https://github.com/user-attachments/assets/7a0215c5-e5ce-406b-90ad-1e132a4b2494" />
 
 O painel apresenta:
 
@@ -282,7 +282,7 @@ Quando o valor passa de `1` para `0`, o estado do alarme muda de `OK` para `ALAR
 
 <!-- Adicione a imagem em: images/alarm.png -->
 
-![Uploading Alarm cloudwatch.png…]()
+<img width="1918" height="718" alt="Alarm cloudwatch" src="https://github.com/user-attachments/assets/a0784c12-e0ed-42da-bb27-a1e217689232" />
 
 ---
 
