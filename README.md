@@ -32,7 +32,7 @@ O projeto permite:
 
 <!-- Adicione a imagem em: architecture/aws-pulse-architecture.png -->
 
-![AWS Pulse Architecture](architecture/aws-pulse-architecture.png)
+<img width="892" height="508" alt="Projeto de monitoramento AWS drawio" src="https://github.com/user-attachments/assets/8391fabc-6569-44cc-9a68-e51a11fd757d" />
 
 Região utilizada:
 
