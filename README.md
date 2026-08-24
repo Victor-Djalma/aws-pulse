@@ -112,7 +112,7 @@ Assim, o monitoramento acontece automaticamente sem necessidade de executar a La
 
 <!-- Adicione a imagem em: images/eventbridge.png -->
 
-![EventBridge Scheduler](images/eventbridge.png)
+<img width="1917" height="787" alt="EventBridge" src="https://github.com/user-attachments/assets/4aa6b8c1-2e75-4be6-bf38-a2330bb105bd" />
 
 ---
 
