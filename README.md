@@ -247,7 +247,9 @@ Registra o tempo necessário para concluir a requisição HTTP, em milissegundos
 O dashboard reúne a disponibilidade, latência e estado dos alarmes dos dois serviços monitorados.
 
 <!-- Adicione a imagem em: images/dashboard.png -->
-
+Dashboard - API DOWN
+<img width="1890" height="1075" alt="Dashaborad-DOWN" src="https://github.com/user-attachments/assets/bb3bbf27-f576-441f-8e4d-ce35eb7fcb80" />
+Dashboard - API UP
 ![AWS Pulse Dashboard](images/dashboard.png)
 
 O painel apresenta:
@@ -280,7 +282,7 @@ Quando o valor passa de `1` para `0`, o estado do alarme muda de `OK` para `ALAR
 
 <!-- Adicione a imagem em: images/alarm.png -->
 
-![CloudWatch Alarms](images/alarm.png)
+![Uploading Alarm cloudwatch.png…]()
 
 ---
 
